@@ -6,6 +6,10 @@
 </p>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=developerammar382&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="left">
   <a href="https://ammarshahid.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ammarshahid.site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -62,7 +66,14 @@ I design and craft fast, accessible, and high-performance user interfaces that b
 
 ## 🌟 Featured Open Source Repositories
 
-
+<p align="left">
+  <a href="https://github.com/developerammar382/aschat">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=aschat&theme=dark&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="aschat Project Card" width="49%" />
+  </a>
+  <a href="https://github.com/developerammar382/ammar-shahid-photography">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=ammar-shahid-photography&theme=dark&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="Ammar Shahid Photography Project Card" width="49%" />
+  </a>
+</p>
 
 ---
 
