@@ -2,7 +2,7 @@
 ### Front-End Engineer | UI/UX Developer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=PROFILE+VIEWS&color=007acc&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdeveloperammar382%2Fvisits" onerror="this.src='https://views.whatilearened.today/views/github/developerammar382/main.svg?color=007acc&style=flat-square'" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/VISITORS-WELCOME-007acc?style=flat-square" alt="Welcome Badge" />
 </p>
 
 <p align="left">
