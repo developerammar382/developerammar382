@@ -59,8 +59,8 @@ I design and craft fast, accessible, and high-performance user interfaces that b
 ## 📈 Real-Time GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerammar382&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&icon_color=58A6FF&text_color=C9D1D9" alt="Ammar's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerammar382&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=developerammar382&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&icon_color=58A6FF&text_color=C9D1D9" alt="Ammar's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=developerammar382&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="Top Languages" width="49%" />
 </p>
 
 ---
