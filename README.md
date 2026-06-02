@@ -2,6 +2,10 @@
 ### Front-End Engineer | UI/UX Developer
 
 <p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=PROFILE+VIEWS&color=007acc&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdeveloperammar382%2Fvisits" onerror="this.src='https://views.whatilearened.today/views/github/developerammar382/main.svg?color=007acc&style=flat-square'" alt="Profile Views" />
+</p>
+
+<p align="left">
   <a href="https://ammarshahid.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ammarshahid.site-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -14,7 +18,7 @@ I design and craft fast, accessible, and high-performance user interfaces that b
 
 - 🌍 Based in Pakistan (GMT+5)
 - 🚀 Specialized in: Building responsive web applications with **React**, **Next.js**, and **TypeScript**.
-- 🛠️ Current Focus: Modern frontend optimization, component driven development, and full-stack integrations.
+- 🛠️ Current Focus: Modern frontend optimization, component-driven development, and full-stack integrations.
 
 ---
 
@@ -38,7 +42,7 @@ I design and craft fast, accessible, and high-performance user interfaces that b
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend, CMS & Devops
+### ⚙️ Backend, CMS & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Statamic-FF2600?style=flat-square&logo=statamic&logoColor=white" alt="Statamic" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -56,12 +60,35 @@ I design and craft fast, accessible, and high-performance user interfaces that b
 
 ---
 
-## 📈 Real-Time GitHub Analytics
+## 🌟 Featured Open Source Repositories
+
+<p align="left">
+  <a href="https://github.com/developerammar382/aschat">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=aschat&theme=dark&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="aschat Project Card" width="49%" />
+  </a>
+  <a href="https://github.com/developerammar382/ammar-shahid-photography">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=ammar-shahid-photography&theme=dark&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="Ammar Shahid Photography Project Card" width="49%" />
+  </a>
+</p>
+
+---
+
+## 📊 Real-Time GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=developerammar382&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&icon_color=58A6FF&text_color=C9D1D9" alt="Ammar's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=developerammar382&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=007acc&text_color=C9D1D9" alt="Top Languages" width="49%" />
 </p>
+
+---
+
+## ⚡ Current Availability & Services
+
+| Service | Status | Ideal Project Size |
+| :--- | :--- | :--- |
+| **Full-Time Frontend Roles** | 🟢 Actively Interviewing | Mid-to-Senior Level React/Next.js |
+| **Freelance & Contract Work** | 🟢 Available | Custom Web Apps, UI Redesigns, Performance Audits |
+| **Open Source Collaboration** | 🟡 Selective | Architecture Design & UI Libraries |
 
 ---
 
