@@ -101,4 +101,4 @@ I design and craft fast, accessible, and high-performance user interfaces that b
 Whether you're looking to discuss frontend optimization, full-stack workflow integration, or freelance opportunities, feel free to reach out!
 
 *   **Website Portfolio:** Drop me a message at [ammarshahid.site](https://ammarshahid.site)
-*   **LinkedIn Professional Network:** Connect with me on [LinkedIn](https://linkedin.com/in/ammar-shahid-7313a9260) *(Make sure to update this link!)*
+*   **LinkedIn:** Connect with me on [LinkedIn](https://linkedin.com/in/ammar-shahid-7313a9260) 
