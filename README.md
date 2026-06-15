@@ -119,7 +119,7 @@ const ammar = {
 
 <div align="center">
   <a href="https://github.com/developerammar382/trevolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=trevolio&theme=tokyonight&bg_color=0D1117&title_color=007ACC&text_color=C9D1D9&hide_border=true" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=trevolio&theme=tokyonight&bg_color=0D1117&title_color=007ACC&text_color=C9D1D9&hide_border=true&v=2" width="49%" />
   </a>
   <a href="https://github.com/developerammar382/poultry-management">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=developerammar382&repo=poultry-management&theme=tokyonight&bg_color=0D1117&title_color=007ACC&text_color=C9D1D9&hide_border=true" width="49%" />
