@@ -131,11 +131,18 @@ A selection of projects demonstrating my development work and technical interest
 
 ---
 
+
 ## 06 / GitHub Activity
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=developerammar382&theme=github-compact&hide_border=true&area=true" />
+<a href="https://github.com/developerammar382">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Explore my repositories, contributions, and latest engineering work.</sub>
 
 </div>
 
