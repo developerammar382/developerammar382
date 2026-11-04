@@ -1,146 +1,161 @@
-```markdown
+
 <div align="center">
 
-<h1>Ammar Shahid</h1>
+# Ammar Shahid
 
-<h3>Frontend Engineer · React · Next.js · TypeScript</h3>
+### Frontend Engineer · React · Next.js · TypeScript
 
-<p>
-  Building thoughtful digital experiences with clean architecture,
-  scalable components, and attention to detail.
-</p>
+Building thoughtful digital experiences through clean architecture, scalable components, and attention to detail.
 
 <br/>
 
 <a href="https://ammarshahid.site">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-ammarshahid.site-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/ammar-shahid-7313a9260">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br/><br/>
 
-<code>Pakistan 🇵🇰</code> &nbsp; <code>2.5+ Years Experience</code> &nbsp; <code>Open to Remote Opportunities</code>
+`PAKISTAN 🇵🇰` &nbsp; `2.5+ YEARS EXPERIENCE` &nbsp; `OPEN TO REMOTE`
 
 </div>
 
 ---
 
-## About
+## 01 / About Me
 
-I'm a Frontend Engineer with 2.5+ years of professional experience building modern web applications.
+I'm a Frontend Engineer focused on building modern, scalable web applications.
 
-My work focuses on turning complex requirements and designs into clean, responsive, and maintainable user interfaces.
+With 2.5+ years of professional experience, I work primarily with React, Next.js, and TypeScript to turn complex ideas and designs into reliable digital products.
 
-I work primarily with **React, Next.js, and TypeScript**, with experience in API integration, CMS-powered websites, admin dashboards, and booking platforms.
+My work goes beyond writing UI code. I care about application architecture, reusable components, performance, accessibility, and the overall user experience.
 
-I care about more than making interfaces look good. I focus on how they are structured, how data flows through them, and how easily they can be maintained and improved.
+I enjoy solving practical engineering problems and building software that is both visually polished and technically sound.
 
-### What I Work On
+### Areas of Focus
 
-- **Frontend Architecture** — Building structured React and Next.js applications with reusable components.
-- **UI Engineering** — Developing responsive interfaces, dashboards, forms, and complex user workflows.
-- **API Integration** — Connecting frontend applications with REST APIs and backend services.
-- **Performance & SEO** — Improving loading behavior, user experience, and search visibility.
-- **Product Development** — Turning business requirements into practical, user-friendly software.
+- **Frontend Architecture** — Structured applications, reusable components, and maintainable code.
+- **UI Engineering** — Responsive interfaces, interactive dashboards, and complex user workflows.
+- **API Integration** — REST APIs, backend communication, and data-driven applications.
+- **Performance & SEO** — Application performance, rendering, and search optimization.
+- **Product Development** — Turning business requirements into functional software.
 
 ---
 
-## Technical Skills
+## 02 / Technical Stack
 
-### Frontend Engineering
+**Frontend Engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
 </p>
 
-### UI & Styling
+**UI & Styling**
 
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui" />
 </p>
 
-### Backend & CMS
+**Backend & CMS**
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=laravel,docker" />
   <img src="https://img.shields.io/badge/Statamic-FF269E?style=flat&logo=statamic&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
-### Tools & Workflow
+**Tools & Workflow**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,vercel" />
 </p>
 
 ---
 
-## Selected Projects
+## 03 / Selected Projects
 
-A few repositories from my development work.
+A selection of projects demonstrating my development work and technical interests.
 
-| Project | Repository |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Trevolio</h3>
+      <p>Explore a web application built with modern frontend technologies.</p>
+      <a href="https://github.com/developerammar382/trevolio">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>Poultry Management</h3>
+      <p>A management-focused application for organizing poultry operations.</p>
+      <a href="https://github.com/developerammar382/poultry-management">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Photography Portfolio</h3>
+      <p>A photography-focused web experience and portfolio project.</p>
+      <a href="https://github.com/developerammar382/ammar-shahid-photography">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>ASChat</h3>
+      <p>A chat application exploring interactive user experiences.</p>
+      <a href="https://github.com/developerammar382/aschat">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 04 / Current Focus
+
+- Improving React and Next.js application architecture.
+- Building more maintainable and reusable component systems.
+- Deepening TypeScript and backend engineering knowledge.
+- Exploring AI-powered development and practical AI integrations.
+- Improving application performance and user experience.
+
+---
+
+## 05 / Engineering Philosophy
+
+> Good software isn't just about making things work. It's about making them understandable, maintainable, and reliable.
+
+| Principle | Approach |
 |:---|:---|
-| **Trevolio** | [Explore Repository](https://github.com/developerammar382/trevolio) |
-| **Poultry Management** | [Explore Repository](https://github.com/developerammar382/poultry-management) |
-| **Photography Portfolio** | [Explore Repository](https://github.com/developerammar382/ammar-shahid-photography) |
-| **ASChat** | [Explore Repository](https://github.com/developerammar382/aschat) |
+| Simplicity | Prefer clear solutions over unnecessary complexity. |
+| Reusability | Build consistent patterns instead of repeating code. |
+| Performance | Treat speed as part of the user experience. |
+| Maintainability | Write code that is easy to understand and improve. |
+| User Experience | Make every interaction meaningful and intuitive. |
 
 ---
 
-## Current Focus
-
-- Building better frontend architecture and reusable component systems.
-- Improving React, Next.js, and TypeScript expertise.
-- Writing cleaner and more maintainable application code.
-- Deepening backend, API, and database knowledge.
-- Exploring practical ways to use AI in software development.
-
----
-
-## Engineering Principles
-
-I believe good frontend engineering is about making the interface and the underlying code work equally well.
-
-- **Clarity over complexity** — Prefer simple solutions that are easy to understand.
-- **Consistency over duplication** — Build reusable patterns instead of repeating code.
-- **User experience matters** — Every interaction should feel intentional.
-- **Maintainability matters** — Code should be easy to improve after its first release.
-- **Performance is part of the experience** — A good interface should also feel fast.
-
----
-
-## Let's Connect
-
-I'm open to discussing frontend engineering opportunities, interesting products, freelance projects, and collaboration.
-
-<p>
-  <a href="https://ammarshahid.site">
-    <img src="https://img.shields.io/badge/Website-ammarshahid.site-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ammar-shahid-7313a9260">
-    <img src="https://img.shields.io/badge/LinkedIn-Ammar%20Shahid-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
+## 06 / GitHub Activity
 
 <div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=developerammar382&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 07 / Let's Connect
+
+I'm open to meaningful engineering opportunities, freelance projects, and collaborations.
+
+<div align="center">
+
+<a href="https://ammarshahid.site">
+  <img src="https://img.shields.io/badge/WEBSITE-Visit%20Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ammar-shahid-7313a9260">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<br/><br/>
 
 <sub>Designed with clarity. Built with purpose.</sub>
 
 </div>
-```
