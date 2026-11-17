@@ -17,7 +17,7 @@ I turn complex ideas into scalable, user-friendly web applications.
 <a href="https://linkedin.com/in/ammar-shahid-7313a9260">
   <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="mailto:">
+<a href="mailto:developer.ammarshahid@gmail.com">
   <img src="https://img.shields.io/badge/OPEN_TO-Opportunities-161B22?style=for-the-badge&logo=handshake&logoColor=white" />
 </a>
 
